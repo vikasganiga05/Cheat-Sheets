@@ -1,3 +1,11 @@
-# Today I Learned
+# Vikas Ganiga's "Cheat-Sheets"
 
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies. TILs are short Markdown documents (a few sentences + example code) explaining concepts, bits of syntax, commands, or tips I've recently learned. I was inspired to start this by seeing jbranchaud's TIL repo &rarr; [jbranchaud/til](https://github.com/jbranchaud/til).
+Hi, there! 👋
+
+I’m Vikas Ganiga, a self-taught Full Stack Developer, Open Source and Tech Enthusiast from India. and I love to inspire and educate people by Documenting my Journey.
+
+This Repository **Cheat-Sheets** is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+
+> :warning: Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
+
+I was inspired to start this by seeing Christian Lempa's cheat-sheets repo &rarr; [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets).
