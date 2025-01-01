@@ -2,8 +2,6 @@
 
 Hi, there! 👋
 
-Hello, World! 👋
-
 I’m Vikas Ganiga, a self-taught Full Stack Developer, Open Source and Tech Enthusiast from India. and I love to inspire and educate people by Documenting my Journey.
 
 This Repository is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
